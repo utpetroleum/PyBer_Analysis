@@ -21,7 +21,8 @@ Based on the "Total Fare by City Type" on weekly basis plot, Rural area had the 
 
 ## Summary
 
-###  Provide three business recommendations to the CEO for addressing any disparities among the city types:
-To increase the amount of total fares in rural and suburban area, the CEO should incentivize more people to become drivers, which would result in more rides and fares. 
+### Provide three business recommendations to the CEO for addressing any disparities among the city types:
+Rural area had the least amount of rides due to low amount of drivers, the CEO should incentivize more people to become drivers in rural and suburban area.
+To increase the amount of total fares in rural and suburban area, the CEO should incentivize more people to become drivers, which would result in more fares. 
 The average fare per ride was the least in urban area, the CEO should increase the fare for a ride to generate more revenue in urban area. 
-The average fare per driver was the least in urban area, the CEO should increase the fare for a ride and it would increase the average fare per driver. 
+The average fare per driver was the least in urban area, the CEO should increase the fare for a ride, and it would increase the average fare per driver. 
