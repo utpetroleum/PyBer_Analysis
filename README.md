@@ -7,7 +7,11 @@ The purpose of the project is to create a summary DataFrame of the ride-sharing 
 
 ## Results
 Pyber Summary Dataframe:
+
 ![pyber summary df](https://user-images.githubusercontent.com/92401000/142877882-4dff3f3b-9b49-429d-a39d-d692b5189b98.png)
+
+
+Total Fare by City Type:
 
 ![image](https://user-images.githubusercontent.com/92401000/142878138-873333cc-eab9-4e3c-87b8-d21a9ca19b07.png)
 
