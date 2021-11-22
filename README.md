@@ -17,6 +17,9 @@ Total Fare by City Type:
 
 ![image](https://user-images.githubusercontent.com/92401000/142878138-873333cc-eab9-4e3c-87b8-d21a9ca19b07.png)
 
-Based on the "Total Fare by City Type" plot, Rural area had the least amount of total fares, Urban area had the most amount of total fares, and Suburban had in between.
+Based on the "Total Fare by City Type" on weekly basis plot, Rural area had the least amount of total fares, Urban area had the most amount of total fares, and Suburban had in between.
 
 ## Summary
+
+###  Provide three business recommendations to the CEO for addressing any disparities among the city types:
+To increase the amount of total fares in rural and suburban area, the CEO should incentivize more people to become drivers, which would result in more rides and fares. The average fare per ride was the least in urban area, the CEO can increase the fare for a ride to generate more revenue in urban area. The average fare per driver was the least in urban area, the CEO should increase the fare and it would increase in the average fare per driver. 
