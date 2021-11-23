@@ -18,11 +18,12 @@ Total Fare by City Type:
 ![image](https://user-images.githubusercontent.com/92401000/142878138-873333cc-eab9-4e3c-87b8-d21a9ca19b07.png)
 
 Based on the "Total Fare by City Type" on weekly basis plot, Rural area had the least amount of total fares, Urban area had the most amount of total fares, and Suburban had in between.
+Also the trend for total fare for all three city types are consistent on a weekly basis. The weekly total fare for rural type fluctuate between the range of $100 - $500, weekly total fare for suburban fluctuate between $750 - $1400, and weekly total fare for urban fluctuate between $1600 - $2500.
 
 ## Summary
 
 ### Provide three business recommendations to the CEO for addressing any disparities among the city types:
-- Rural area had the least amount of rides due to low amount of drivers, the CEO should incentivize more people to become drivers in rural and suburban area.
-- To increase the amount of total fares in rural and suburban area, the CEO should incentivize more people to become drivers, which would result in more rides and more fares.
+- Rural area had the least amount of rides due to low amount of drivers, the CEO should hire more people to become drivers in rural and suburban area.
+- To increase the amount of total fares in rural and suburban area, the CEO should hire more people to become drivers, which would result in more rides and more fares.
 - The average fare per ride was the least in urban area, the CEO should increase the fare for a ride to generate more revenue in urban area. 
 - The average fare per driver was the least in urban area, the CEO should increase the fare for a ride, and it would increase the average fare per driver. 
